@@ -1,0 +1,29 @@
+
+.item-cartWidget{
+    size: 10px;
+    min-height: 100%;
+    /* margin: 0 0 0 2em; */
+}
+
+.item-cartWidget-link {
+    display: block;
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+}
+
+.item-cartWidget-icon {
+  color: rgba(255, 255, 255, 0.705);
+  }
+
+  
+.item-cartWidget-total {
+  background-color: #fff;
+  color: black;
+  padding: 1px 3px 1px 3px;
+  border-radius: 30%;
+  font-size: 12px;
+  font-weight: bold;
+}
+
+

@@ -1,0 +1,45 @@
+
+
+.footer-container {
+	text-align: center;
+	margin-top: 1em;
+	bottom: 0;
+}
+
+
+.footer-body {
+	background-color: #000000e3;
+	color: white;
+	display: flex;
+	justify-content: center;
+	font-size: 1.3em;
+	align-items: center;
+}
+
+.footer-header {
+	background-color: #000000e3;
+	color: white;
+	font-family: "Road Rage", cursive;
+	font-size: 1.3em;
+	padding: 0;
+}
+
+.footer-text {
+	font-family: "Bebas Neue", cursive;
+	margin-bottom: 0;
+}
+
+.footer-social {
+	display: flex;
+	width: 1em;
+	margin-left: 0.5em;
+	cursor: pointer;
+	transition: 0.2s ease-in-out;
+	color: rgba(255, 255, 255, 0.705);
+}
+
+.footer-social:hover {
+	color: white;
+}
+
+

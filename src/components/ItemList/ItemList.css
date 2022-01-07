@@ -1,0 +1,27 @@
+.input-container {
+    position:relative;
+    padding: 10px 20px 20px 10px;
+    margin: 0 auto 20px;
+    background:#EA1F63;
+    width: 97%;
+}    
+
+.item-list {
+    display: flex;
+    flex-wrap: wrap;
+    min-height: 100%;
+}    
+
+
+/* .input {
+    height:20px;
+    margin:0;
+    padding-right: 30px;
+} */
+/* .input-img {
+    position:absolute;
+    bottom:2px;
+    right:5px;
+    width:24px;
+    height:24px;
+} */

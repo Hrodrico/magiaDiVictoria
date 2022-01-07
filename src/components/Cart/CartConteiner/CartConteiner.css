@@ -1,0 +1,85 @@
+.btn-accion{
+    align-content: center;
+}
+
+.not-product-container{
+    width: 100%;
+    border: none;
+    flex-direction: column;
+	display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 3em;
+	padding: 3em;
+}
+
+.not-product-container-text{
+	display: flex;
+	font-family: "Bebas Neue", cursive;
+	font-size: 4em;
+    color:#EA1F63;
+}
+
+.step-cart-container{
+	font-size: 0.8rem;
+}
+
+
+.title-cart{
+    font-family: "Arial Black" ;
+    font-size: 1.3em;
+	color:#000000;
+}
+
+.subtotal-cart{
+    font-family: "Arial Bold", sans-serif; 
+    font-size: 1.1em;
+	color:#000000;
+}
+
+
+.price-subtotal-cart{
+    font-family: "Arial Bold", sans-serif; 
+    font-size: 1.1em;
+	color:#000000;
+}
+
+.total-cart{
+    font-family: "Arial";
+    font-weight: bold;
+    font-size: 1.1em;
+	color:#000000;
+}
+
+.price-total-cart{
+    font-family: "Arial";
+    font-weight: bold;
+    font-size: 1.1em;
+	color:#000000;
+}
+
+/* CartResumenOrder */
+.cart-resumen-order-title{
+    margin-bottom: 1em;
+    font-family: "Arial";
+    font-weight: bold;
+    font-size: 2.1em;
+	color:#000000;
+}
+
+
+.cart-resumen-order-thanks{
+    margin-bottom: 1em;
+    font-family: "Arial";
+    font-weight: bold;
+    font-size: 1.4em;
+	color:#000000;
+}
+
+.cart-resumen-order-detail, .cart-resumen-order-detail{
+    font-family: "Arial";
+    font-weight: bold;
+    font-size: 1.2em;
+	color:#000000;
+}
+

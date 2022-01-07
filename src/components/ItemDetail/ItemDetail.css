@@ -1,0 +1,25 @@
+.item-detail {
+    margin-top: 20px;
+    /* border: 1px solid grey; */
+    display: flex;
+	justify-content: center;
+	margin: 20px;
+}
+
+.count-detail {
+    margin-top: 20px;
+    /* border: 1px solid grey; */
+    display: flex;
+	justify-content: center;
+	margin: 20px;
+}
+
+.button-detail {
+    margin-top: 20px;
+    /* border: 1px solid grey; */
+    display: flex;
+	justify-content: center;
+	margin: 20px;
+}
+
+
